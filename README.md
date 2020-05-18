@@ -5,7 +5,7 @@
 
 Thanks for checking out this front-end coding challenge.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
+[Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve my skills in a real-life workflow.
 
 ## The challenge
 The challenge is to build out this feature section and get it looking as close to the design as possible.
@@ -17,7 +17,7 @@ Users should:
 * View the optimal layout for the site depending on their device's screen size for Desktop and Mobile
 
 ## Challenge URL
-https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK
+<https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK>
 
 ## Technologies used
 
@@ -26,4 +26,4 @@ https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK
 
 ## Live URL solution
 
-https://four-cards-feature-section.now.sh/
+<https://four-cards-feature-section.now.sh/>
