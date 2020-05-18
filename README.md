@@ -1,4 +1,7 @@
 # Frontend Mentor - Four card feature section
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/724de71b6ac64621b09a31b490ee9572)](https://app.codacy.com/manual/danielbarrosdeoliveira/four-cards-feature-section?utm_source=github.com&utm_medium=referral&utm_content=danielbarrosdeoliveira/four-cards-feature-section&utm_campaign=Badge_Grade_Dashboard)
+
 ![desktop-preview](https://user-images.githubusercontent.com/28925159/82166808-01bb8300-9890-11ea-8649-ef44d096a385.jpg)
 
 ## Welcome! 👋
